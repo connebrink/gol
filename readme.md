@@ -2,7 +2,7 @@
 
 ## Description
 
-Implementation of Game of Life 
+Conway's Game of Life in C++
 
 ## Requirements
 
