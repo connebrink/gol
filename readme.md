@@ -8,5 +8,6 @@ Conway's Game of Life in C++
 
 - GNU Make
 - C++ compiler with C++-20 Support
-- Install SFML Library
+- Installed SFML Library  https://www.sfml-dev.org/
+
 
